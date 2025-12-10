@@ -1,5 +1,4 @@
 # AI-Portfolio-Erwin-Cheng
-# Erwin Cheng – Applied AI Portfolio
 
 ## Program
 Applied Artificial Intelligence & Robotics  
